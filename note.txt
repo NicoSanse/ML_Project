@@ -1,0 +1,10 @@
+esperimetni:
+ - alberi con PCA, no SMOTE, sì fnlwgt
+ - albero con PCA, sì SMOTE, no fnlwgt
+ - alberi senxa PCA nè SMOTE, sì fnlwgt per leggibilità
+
+
+ - oversampling vs undersampling
+
+ 
+ - Bayes
