@@ -5,3 +5,7 @@ esperimenti:
 
  
  - Bayes
+
+
+TODO alla fine:
+ - decommentare alcune istruzioni
