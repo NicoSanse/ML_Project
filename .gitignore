@@ -4,3 +4,5 @@
 # Ignora tutti i file .txt
 *.txt
 
+# Ignora tutti i file .png
+*.png
