@@ -9,6 +9,7 @@ esperimenti:
 
 TODO alla fine:
  - decommentare alcune istruzioni
+ - spostare le curve AUC nella parte di validazione
 
 
 Perchè i risultati ottenuti con la tecnica di validazione sul secondo albero nel secondo esperimento 
