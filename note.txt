@@ -1,7 +1,7 @@
 esperimenti:
  - alberi senza PCA no SMOTE, sì fnlwgt per leggibilità ('liscio')
- - alberi senza PCA, sì SMOTE no fnlwgt, perchè sarebbe un dato sintetico
- - alberi con PCA, bilanciamento SMOTE + Tomek Lins+ks, no fnlwgt perchè le istanze prodotte con PCA non sono direttamente riconducibili
+ - alberi senza PCA, sì SMOTETomeklinks no fnlwgt, perchè sarebbe un dato sintetico
+ - alberi con PCA, bilanciamento SMOTETomekLinks, no fnlwgt perchè le istanze prodotte con PCA non sono direttamente riconducibili
 
  
  - Bayes
