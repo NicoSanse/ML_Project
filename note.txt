@@ -9,3 +9,7 @@ esperimenti:
 
 TODO alla fine:
  - decommentare alcune istruzioni
+
+
+Perchè i risultati ottenuti con la tecnica di validazione sul secondo albero nel secondo esperimento 
+contraddicono il modello visto prima?
